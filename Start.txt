@@ -3,4 +3,8 @@ Lets see what we can do using this tool.
 
 This is first editing in the file Start.
 
+
 This line is added to show branching in git.
+
+today i had dinner at my friends place
+
