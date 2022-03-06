@@ -2,3 +2,5 @@ This is my first attempt to understand how git works.
 Lets see what we can do using this tool.
 
 This is first editing in the file Start.
+
+today i had dinner at my friends place
